@@ -1,1 +1,2 @@
 lua;You have deployed buddyboard!
+127.0.0.1;Check out this video ^tclKvBqhQAY
